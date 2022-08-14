@@ -11,16 +11,25 @@
 ➡ Passionate towards VR, AR, and software engineering.
 >
 
-[Insert badges here]
+
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white)
+
 
 #### 📖 I'm currently learning...
 * C#
-* Agile Software Development
+* Software Development
 * Computer Architecture
 * Matrices & Linear Algebra
 
 #### 🔍 I'm looking to research VR / AR data analytics and practical integration into society.
 
-#### Contact me:
+#### 📧 Contact me:
 * LinkedIn: https://www.linkedin.com/in/joshua-glaspey/
 * Gmail: [jkglaspey@gmail.com](mailto:jkglaspey@gmail.com?subject=%5BGitHub%5D)
+
+![Java](https://img.shields.io/badge/Java-4e7b99?style=for-the-badge&logo=Oracle&logoColor=white&textColor=white)
+![C](https://img.shields.io/badge/C-a3b3c6?style=for-the-badge&logo=C&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-ff0000?style=for-the-badge&logo=AssemblyScript&logoColor=white)
+![Object-Oriented Programming](https://img.shields.io/badge/Agile-2ec9ec?style=for-the-badge&logo=Agile&logoColor=white)
