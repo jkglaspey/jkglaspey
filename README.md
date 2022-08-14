@@ -1,16 +1,26 @@
-### Hi there 👋
+[Insert profile picture here]
 
-<!--
-**jkglaspey/jkglaspey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ```System.out.print("Hello World! I am Joshua Glaspey 👋")```
+>
+➡ Burnett's Honors College at the University of Central Florida.
+>
+>
+➡ Studying Computer Engineering and Mathematics.
+>
+>
+➡ Passionate towards VR, AR, and software engineering.
+>
 
-Here are some ideas to get you started:
+[Insert badges here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📖 I'm currently learning...
+* C#
+* Agile Software Development
+* Computer Architecture
+* Matrices & Linear Algebra
+
+#### 🔍 I'm looking to research VR / AR data analytics and practical integration into society.
+
+#### Contact me:
+* LinkedIn: https://www.linkedin.com/in/joshua-glaspey/
+* Gmail: [jkglaspey@gmail.com](mailto:jkglaspey@gmail.com?subject=%5BGitHub%5D)
