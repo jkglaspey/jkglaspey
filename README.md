@@ -1,4 +1,4 @@
-[Insert profile picture here]
+![Profile Picture](https://user-images.githubusercontent.com/70596598/184519663-5df283df-cc7d-4e74-a994-0c384ef61a0e.jpg)
 
 ## ```System.out.print("Hello World! I am Joshua Glaspey 👋")```
 >
