@@ -1,14 +1,14 @@
 ![Profile Picture](https://user-images.githubusercontent.com/70596598/184519663-5df283df-cc7d-4e74-a994-0c384ef61a0e.jpg)
 
-## ```System.out.print("Hello World! I am Joshua Glaspey 👋")```
+## Hello!👋 I am
 >
-➡ Burnett's Honors College at the University of Central Florida.
->
->
-➡ Studying Computer Engineering and Mathematics.
+➡ Current Master's student pursuing Machine Learning / Artificial Intelligence
 >
 >
-➡ Passionate towards VR, AR, and software engineering.
+➡ BS in Computer Engineering, Minor in Mathematics
+>
+>
+➡ Passionate towards current topics in machine learning.
 >
 
 
@@ -18,18 +18,9 @@
 
 
 #### 📖 I'm currently learning...
-* C#
-* Software Development
-* Computer Architecture
-* Matrices & Linear Algebra
-
-#### 🔍 I'm looking to research VR / AR data analytics and practical integration into society.
+* Computer Vision
+* LLM Multimodal Alignment
 
 #### 📧 Contact me:
 * LinkedIn: https://www.linkedin.com/in/joshua-glaspey/
 * Gmail: [jkglaspey@gmail.com](mailto:jkglaspey@gmail.com?subject=%5BGitHub%5D)
-
-![Java](https://img.shields.io/badge/Java-4e7b99?style=for-the-badge&logo=Oracle&logoColor=white&textColor=white)
-![C](https://img.shields.io/badge/C-a3b3c6?style=for-the-badge&logo=C&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-ff0000?style=for-the-badge&logo=AssemblyScript&logoColor=white)
-![Object-Oriented Programming](https://img.shields.io/badge/Agile-2ec9ec?style=for-the-badge&logo=Agile&logoColor=white)
